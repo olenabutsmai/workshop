@@ -7,6 +7,7 @@
 > 2. Робимо дизайн, використовуючи прості форми, що доступні у Figma. Зберігаємо.
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3f7ac119-7816-4d68-8d06-c714fa66ed06" />
 
+https://www.figma.com/design/9bIWz9mXUrRVRMjTh0rpoW/Untitled?node-id=0-1&t=QBUSw7rFirzwl572-1
 ### Висновки:
 Що ви зробили на практиці?
 - Я створила різноманітні дизайни за допомогою простих форм.
