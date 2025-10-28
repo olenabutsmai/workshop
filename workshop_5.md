@@ -26,6 +26,7 @@
 <img width="269" height="267" alt="image" src="https://github.com/user-attachments/assets/bc4de005-0c17-453f-867d-b9b51227e1f9" />
 
 
+Посилання на проєкт:https://www.figma.com/design/C0cEHgLwVNJKEqZNA48Elo/Untitled?node-id=0-1&t=nHAk3WFhaHLelqpk-1
 ### Висновки:
 Що ви зробили на практиці?
 - Я опанувала матеріал з посібника користувача Figma, розділи про перо та вектор.
