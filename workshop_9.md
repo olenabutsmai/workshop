@@ -18,8 +18,9 @@
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ac027e57-2750-4e30-86a0-923efd96b413" />
 
 ##
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35a2d98b-6a6f-4ac8-b638-d512567a8d91" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd606942-5b38-4dd1-b941-690fad394aaf" />
 
+##
 Посилання на проєкт:https://www.figma.com/design/hbGQTOHVxMBmYGkVGKOveU/Untitled?node-id=0-1&t=6JUxJPwrOPbpindc-1
 ### Висновки:
 Що ви зробили на практиці?
