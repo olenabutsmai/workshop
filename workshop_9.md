@@ -5,7 +5,7 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/368c1c16-ca70-4a1f-a626-b8ba4c0049ba" />
 
-> 2. Додаємо, для зручності, допоміжну розмітку: 10 колонок розміром 120 і проміжком 20.
+> 2. Додаємо, для зручності, допоміжну розмітку: 10 колонок із запасом 120 і проміжком 20.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0f43512-862f-461c-879f-b61589af692b" />
 
