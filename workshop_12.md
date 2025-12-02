@@ -19,7 +19,8 @@
 >5. Ставимо все на свої місця.
 >6. Перевіряємо чи правильно направляють кнопки за прототипом.
 
-Отримуємо prototype <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/209034ab-26fc-4516-8f49-70461f5f1615" />
+Отримуємо prototype <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37ef27e8-6e83-4a69-814a-c1c97a95c8a4" />
+
 #
 Посилання на проєкт: https://www.figma.com/design/avqxugpSeZq5KFoFjh3t0y/Untitled?node-id=0-1&t=cgVJRwKzkPleaJF4-1
 ### Висновки:
